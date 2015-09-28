@@ -16,7 +16,7 @@ module.exports = {
   port: 1337, // Yay for LEET!
   hooks: {
     // Load the hook
-    'humpback-gui-hook': require('../../'),
+    'humpback-webhook-hook': require('../../'),
     // Skip grunt (unless your hook uses it)
     'grunt': false
   },
