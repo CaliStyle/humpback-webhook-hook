@@ -1,6 +1,6 @@
 {
   "name": "humpback-webhook-hook",
-  "version": "0.11.6",
+  "version": "0.11.7",
   "description": "Humpback Webhook Hook",
   "main": "index.js",
   "sails": {
